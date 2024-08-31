@@ -1,0 +1,1 @@
+This is a [Next.js](https://nextjs.org/) project for testing pourposes for Wasmer.
