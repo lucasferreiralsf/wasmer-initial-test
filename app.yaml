@@ -1,0 +1,5 @@
+name: wasmer-initial-test
+app_id: da_RjPIgtQU9k4K
+owner: lucasferreiralsf
+package: .
+kind: wasmer.io/App.v0
